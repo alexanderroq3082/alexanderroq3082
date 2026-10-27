@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there I´m Alexander👋 
 
 <!--
-- 🔭 I’m currently working on ... 
+- Actualmrentr estoy trabajando en un negocio personal 
 - 🌱 I’m currently learning Mtematicas para el desarrollo
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
