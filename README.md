@@ -14,3 +14,4 @@
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 </p>
+git remote add origin git@github.com:User/Mi_primer_repo.git
